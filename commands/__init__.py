@@ -16,11 +16,11 @@ def start(update: Update, context: CallbackContext):
     reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Support Group', url='https://t.me/linux_repo'),
-                    InlineKeyboardButton('Developer', url='https://t.me/AbirHasan2005')
+                    InlineKeyboardButton('Support Group', url='https://t.me/beyaaaaan'),
+                    InlineKeyboardButton('Mang Oleh', url='https://t.me/beyaaaan')
                 ],
                 [
-                    InlineKeyboardButton('Telegram Bots Updates Channel', url='https://t.me/Discovery_Updates'),
+                    InlineKeyboardButton('Telegram Mirror', url='https://t.me/beyaaaaan'),
                 ]
             ]
         )
